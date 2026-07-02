@@ -138,11 +138,10 @@ Library-Data-Management-System
 
 ## 🚀 Future Improvements
 
-* Create complete database schema with sample data.
-* Develop SQL Views for reusable reporting.
-* Implement Stored Procedures for recurring business queries.
-* Add indexes to improve query performance.
-* Build an interactive Power BI dashboard connected to the database.
+- Expand the database by adding more books, members, and loan records for richer analysis.
+- Explore additional SQL queries to answer more business questions.
+- Create reusable SQL views to simplify frequently used reports.
+- Build summary reports to present library insights in a more organized format.
 
 ---
 
